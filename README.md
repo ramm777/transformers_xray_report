@@ -15,6 +15,6 @@ I get the following distribution of GREEN scores evaluated on the per report sam
 
 <p align="center"> <img src="data_outputs/green_scores.png" alt="Data_fusion" width="500"> </p>
 
-
+This is an ongoing project. 
 
 
