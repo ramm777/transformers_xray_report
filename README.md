@@ -1,4 +1,5 @@
-## Transformers that uses multi-modal image and text data to predict radiology reports for X-ray images
+## Transformers Using Multi-Modal Image and Text Data to Predict Radiology Reports for X-ray Images
+
 I trained (fine-tuned) a multi-modal LLM model to predict the findings on X-ray images to help radiologists in their day-to-day work. 
 The present global shortage of radiologists limits access to specialist care and imposes heavy workloads on radiologists, leading to unwanted delays and errors in clinical decisions.
 This model can automate X-ray report generation, enhance diagnostic accuracy, and facilitate clinicians in providing timely and effective patient care.
