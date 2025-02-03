@@ -18,10 +18,13 @@ I get the following distribution of GREEN scores evaluated on the per report sam
 This is an ongoing project. 
 
 
-- Train (fine-tuning) Llama 3.2-Vision model on X-ray data and reports
+- Train (fine-tuning) Llama 3.2-Vision model on X-ray data and reports:
 `task2_llama_train.ipynb` 
-- Performance evaluation of the Llama 3.2-Vision model - task2_llama_eval.ipynb 
-- Train (fine-tuning) Qwen2-VL - task2_qwen_train.ipynb 
-- Performance evaluation of the Qwen2-VL model - task2_qwen_eval.ipynb 
+- Performance evaluation of the Llama 3.2-Vision model:
+`task2_llama_eval.ipynb` 
+- Train (fine-tuning) Qwen2-VL model on X-ray data and reports:
+`task2_qwen_train.ipynb` 
+- Performance evaluation of the Qwen2-VL model:
+`task2_qwen_eval.ipynb` 
 
 
